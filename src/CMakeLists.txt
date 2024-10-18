@@ -106,6 +106,7 @@ set(MESHLAB_PLUGINS
 	meshlabplugins/filter_colorproc
 	meshlabplugins/filter_create
 	meshlabplugins/filter_cubization
+	meshlabplugins/filter_curvature_skeleton
 	meshlabplugins/filter_developability
 	meshlabplugins/filter_dirt
 	meshlabplugins/filter_embree
